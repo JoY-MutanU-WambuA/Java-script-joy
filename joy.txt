@@ -1,0 +1,17 @@
+var kiosk= {
+	fruit:"melon",
+
+	setFruits(kiosks){
+	return this.fruits;},
+	
+	getFruits(kiosk){
+	this.fruits = peach;}
+	}
+	
+
+	kiosk.fruit
+	"melon"
+	getfruits = 'banana','grape';
+	"grape"
+	getFruits = 'melon';
+	"melon"
